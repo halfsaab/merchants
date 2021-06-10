@@ -6,7 +6,7 @@ mysql running in port 3406
 redis running in port 7379
 mongodb running in port 37017
 
-In the terminal run: npm install
+From a terminal run: /npm install (sudo might be needed)
 
 Install below modules from the terminal in VBS:
 /merchants npm install mongodb
