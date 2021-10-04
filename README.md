@@ -1,5 +1,5 @@
 # merchants
-Pol Service Management Tech Assignment
+Pol Service Management Tech Assessment
 
 Modules needed from docker:
 mysql running in port 3406
